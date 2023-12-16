@@ -1,0 +1,24 @@
+*{
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
+
+p {
+    background-color: #FFCCCB;
+    font-size: 35px;
+}
+
+.unique-div{
+    font-size: 45px;
+}
+
+#num2{
+    color: #0000ff;
+    font-size: 50px;
+}
+
+#num3{
+    background-color: #98fb98;
+    font-size: 40px;
+    font-weight: 600;
+
+}
