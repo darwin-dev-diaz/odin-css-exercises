@@ -40,8 +40,13 @@ button {
   font-size: 30px;
   margin: 10px auto 0;
 }
+button:hover span{
+  display: none;
+}
 
+button:hover::before{
+  content: 'BIG BUTTON 😩';
+}
 button:hover{
-  content: 'test';
-  background-color: red;
+  background-color: lightgoldenrodyellow;
 }
